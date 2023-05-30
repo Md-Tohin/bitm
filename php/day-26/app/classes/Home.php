@@ -10,7 +10,8 @@ class Home
     }
 
     public function index(){
-        return header("route.php");
+        echo "dsfsafdsadfdsafsafsafd";
+        // return header("route.php");
     }
 
 
