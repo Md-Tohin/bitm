@@ -12,7 +12,7 @@
                         <div class="card-body">
                             <h5 class="card-title"><?php echo $value['title']; ?></h5>
                             <p class="card-text"><?php echo $value['short_desc'] ?></p>
-                            <a href="?page=details&img=<?php echo $value['img'];?>&title=<?php echo $value['title']; ?>&lg_desc=<?php echo $value['long_desc']; ?>" class="btn btn-primary">View Details</a>
+                            <a href="?page=details&img=<?php echo $value['img'];?>&title=<?php echo $value['title']; ?>&lg_desc=<?php echo $value['long_desc']; ?>" class="btn btn-success">View Details</a>
                         </div>
                     </div>
                 </div>

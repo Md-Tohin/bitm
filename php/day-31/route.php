@@ -3,6 +3,7 @@
 require_once "vendor/autoload.php";
 
 use App\classes\Product;
+use App\classes\Student;
 
 if (isset($_GET['page'])) {
     if ('home' == $_GET['page']) {
@@ -17,5 +18,9 @@ if (isset($_GET['page'])) {
     }
     elseif('contact' == $_GET['page']){
         include "pages/includes/contact.php";
+    }
+    elseif('students' == $_GET['page']){
+        $students = new Student();
+        include "pages/includes/students.php";
     }
 }
