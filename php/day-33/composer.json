@@ -1,0 +1,11 @@
+{
+    "name": "batch-25/day-33",
+    "description": "A simple Project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "require": {}
+}
