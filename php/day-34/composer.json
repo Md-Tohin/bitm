@@ -1,0 +1,11 @@
+{
+    "name": "mdtohin/portfolio",
+    "description": "Simple portfolio php project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "require": {}
+}

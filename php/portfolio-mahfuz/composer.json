@@ -1,0 +1,10 @@
+{
+    "name": "mahfuz/portfolio",
+    "description": "Dynamic PHP Portfolio",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "require": {}
+}
