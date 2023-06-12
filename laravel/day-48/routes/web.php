@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\backend\AdminController;
+use App\Http\Controllers\backend\CategoryController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FrontendController;
 
@@ -32,4 +33,9 @@ Route::middleware([
     'verified'
 ])->group(function () {
     Route::get('/dashboard', [AdminController::class, "dashboard"])->name('dashboard');
+    //  category
+    Route::get('/category/add', [CategoryController::class, "addCategory"])->name('add.category');
+    Route::post('/category/store', [CategoryController::class, "storeCategory"])->name('store.category');
+    Route::get('/category/manage', [CategoryController::class, "manageCategory"])->name('manage.category');
+
 });
