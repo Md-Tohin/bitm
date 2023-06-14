@@ -24,8 +24,23 @@
                 <li>
                     <hr class="dropdown-divider" />
                 </li>
-                <li><a class="dropdown-item" href="">Logout</a></li>
+                <li><a class="dropdown-item" href="" id="logout">Logout</a></li>
             </ul>
         </li>
+
     </ul>
 </nav>
+
+<form action="{{route('logout')}}" method="post" id="logoutForm">
+    @csrf
+
+
+</form>
+
+<script>
+    document.getElementById('logout').addEventListener('click', function(e){
+        e.preventDefault();
+        alert('Are you sure to logout!');
+        document.getElementById('logoutForm').submit();
+    });
+</script>

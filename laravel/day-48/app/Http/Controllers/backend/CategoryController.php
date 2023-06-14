@@ -10,9 +10,8 @@ class CategoryController extends Controller
 {
     //  manage category
     public function manageCategory(){
-        $categories = Category::get()->orderBy('id', 'desc');
-
-        return view('backend.category.index');
+        $categories = Category::orderBy('id', 'desc')->get();
+        return view('backend.category.index', compact('categories'));
     }
 
     //  add category

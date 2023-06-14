@@ -43,6 +43,8 @@ Route::middleware([
     Route::get('/product/manage', [ProductController::class, 'manageProduct'])->name('manage.product');
     Route::get('/product/add', [ProductController::class, 'addProduct'])->name('add.product');
     Route::post('/product/store', [ProductController::class, 'storeProduct'])->name('store.product');
+    Route::get('/product/edit/{id}', [ProductController::class, 'editProduct'])->name('edit.product');
+    Route::post('/product/update', [ProductController::class, 'updateProduct'])->name('update.product');
 
 
 });

@@ -2,18 +2,21 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Product;
 use Illuminate\Http\Request;
 
 class FrontendController extends Controller
 {
     //  home
     public function index(){
-        return view("frontend.home");
+        $products = Product::orderBy('id', 'desc')->get();
+        return view("frontend.home", compact('products'));
     }
 
     //  shop
     public function shop(){
-        return view('frontend.shop');
+        $products = Product::orderBy('id', 'desc')->get();
+        return view('frontend.shop', compact('products'));
     }
 
     //  single product
