@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\backend\AdminController;
 use App\Http\Controllers\backend\CategoryController;
+use App\Http\Controllers\backend\ProductController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FrontendController;
 
@@ -37,5 +38,11 @@ Route::middleware([
     Route::get('/category/add', [CategoryController::class, "addCategory"])->name('add.category');
     Route::post('/category/store', [CategoryController::class, "storeCategory"])->name('store.category');
     Route::get('/category/manage', [CategoryController::class, "manageCategory"])->name('manage.category');
+
+    //  product
+    Route::get('/product/manage', [ProductController::class, 'manageProduct'])->name('manage.product');
+    Route::get('/product/add', [ProductController::class, 'addProduct'])->name('add.product');
+    Route::post('/product/store', [ProductController::class, 'storeProduct'])->name('store.product');
+
 
 });

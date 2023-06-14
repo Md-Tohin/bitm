@@ -19,8 +19,8 @@
                     <nav class="sb-sidenav-menu-nested nav">
                         <a class="nav-link" href="{{route('add.category')}}">Add Category</a>
                         <a class="nav-link" href="{{route('manage.category')}}">Manage Category</a>
-                        <a class="nav-link" href="layout-static.html">Add Product</a>
-                        <a class="nav-link" href="layout-sidenav-light.html">Manage Products</a>
+                        <a class="nav-link" href="{{route('add.product')}}">Add Product</a>
+                        <a class="nav-link" href="{{route('manage.product')}}">Manage Products</a>
                     </nav>
                 </div>
                 <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
