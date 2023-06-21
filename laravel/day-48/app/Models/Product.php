@@ -11,10 +11,12 @@ class Product extends Model
 
     function imageProcessing($req){
         $image = $req->file('image');
-        $imageName = $image->getClientOriginalName();
+        $imageName = rand(10000000, 999999999);
+        $img_ex = $image->getClientOriginalExtension();
+        $img_name = $imageName.'.'.$img_ex;
         $directory = "assets/upload/product_images/";
-        $image->move($directory, $imageName);
-        return $directory.$imageName;
+        $image->move($directory, $img_name);
+        return $directory.$img_name;
     }
 
     function createProduct($data){

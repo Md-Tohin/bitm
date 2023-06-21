@@ -1,0 +1,1076 @@
+<!doctype html><html
+class="no-js" lang="en-US"><head>
+ <script type="text/javascript">window['gtag_enable_tcf_support'] = true;</script> <script defer data-domain="alphr.com" src="https://plausible.io/js/plausible.js"></script>  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4608144-1"></script> <script>window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-4608144-1');</script> <meta
+charset="UTF-8"/><meta
+name="viewport" content="width=device-width, initial-scale=1.0"/><title>  How to Find the Model Number on a Laptop</title><link
+rel="dns-prefetch" href="//fonts.googleapis.com"><link
+rel="dns-prefetch" href="//fonts.gstatic.com"><link
+rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto+Condensed:300,400,700|Pacifico|Rubik:400,500,700&amp;display=swap"><link
+rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto+Condensed:300,400,700|Pacifico|Rubik:400,500,700&amp;display=swap" media="all" onload="this.media='all'">
+<style type="text/css">body {
+            --use: 20px;
+            --doNotUse: 0px;
+            --fsAncillary: var(--doNotUse);
+        }
+        [data-freestar-ad] {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+        [data-freestar-ad*="__fsAncillary"] {
+            --fsAncillary: var(--use);
+        }
+        [data-freestar-ad*="__728x90"],
+        [data-freestar-ad*="__970x90"] {
+            --height: 90px;
+            height: 90px;
+            height: calc(var(--height) + var(--fsAncillary)) !important;
+        }
+
+        [data-freestar-ad*="__300x250"],
+        [data-freestar-ad*="__970x250"] {
+            --height: 250px;
+            height: 250px;
+            height: calc(var(--height) + var(--fsAncillary)) !important;
+        }
+
+        [data-freestar-ad*="__336x280"] {
+            --height: 280px;
+            height: 280px;
+            height: calc(var(--height) + var(--fsAncillary)) !important;
+        }
+
+        [data-freestar-ad*="__160x600"],
+        [data-freestar-ad*="__300x600"] {
+            --height: 600px;
+            height: 600px;
+            height: calc(var(--height) + var(--fsAncillary)) !important;
+        }
+
+        @media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+            [data-freestar-ad*="__300x50"],
+            [data-freestar-ad*="__320x50"] {
+                --height: 50px;
+                height: 50px;
+                height: calc(var(--height) + var(--fsAncillary)) !important;
+            }
+
+            [data-freestar-ad*="__468x60"] {
+                --height: 60px;
+                height: 60px;
+                height: calc(var(--height) + var(--fsAncillary)) !important;
+            }
+
+            [data-freestar-ad*="__300x100"],
+            [data-freestar-ad*="__320x100"] {
+                --height: 100px;
+                height: 100px;
+                height: calc(var(--height) + var(--fsAncillary)) !important;
+            }
+
+            [data-freestar-ad*="__300x250"] {
+                --height: 250px;
+                height: 250px;
+                height: calc(var(--height) + var(--fsAncillary)) !important;
+            }
+
+            [data-freestar-ad*="__336x280"] {
+                --height: 280px;
+                height: 280px;
+                height: calc(var(--height) + var(--fsAncillary)) !important;
+            }
+        }</style><meta
+name='robots' content='max-image-preview:large' /><link
+rel='dns-prefetch' href='//cdnjs.cloudflare.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel='dns-prefetch' href='//i0.wp.com' /><link
+rel='stylesheet' id='wp-block-library-css'  href='https://www.alphr.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' /><style id='wp-block-library-inline-css' type='text/css'>.has-text-align-justify{text-align:justify;}</style><link
+rel='stylesheet' id='mediaelement-css'  href='https://www.alphr.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' /><link
+rel='stylesheet' id='wp-mediaelement-css'  href='https://www.alphr.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.3' type='text/css' media='all' /><style id='global-styles-inline-css' type='text/css'>body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}</style><link
+rel='stylesheet' id='wpautoterms_css-css'  href='https://www.alphr.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=6.0.3' type='text/css' media='all' /><link
+rel='stylesheet' id='contact-form-7-css'  href='https://www.alphr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3' type='text/css' media='all' /><link
+rel='stylesheet' id='mf_dp_functions-css'  href='https://www.alphr.com/wp-content/plugins/more-functions/assets/css/styles.css?ver=0.0.3' type='text/css' media='all' /><link
+rel='stylesheet' id='ppress-frontend-css'  href='https://www.alphr.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.1.4' type='text/css' media='all' /><link
+rel='stylesheet' id='bower_normalize-css'  href='https://www.alphr.com/wp-content/themes/alphr/bower_components/foundation/css/normalize.min.css?ver=6.0.3' type='text/css' media='all' /><link
+rel='stylesheet' id='theme_style-css'  href='https://www.alphr.com/wp-content/themes/alphr/stylesheets/app.css?ver=1592377473' type='text/css' media='all' /><link
+rel='stylesheet' id='theme_style2-css'  href='https://www.alphr.com/wp-content/themes/alphr/style.css?ver=1592377884' type='text/css' media='all' /><link
+rel='stylesheet' id='ari-fancybox-css'  href='https://www.alphr.com/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='all' /> <script type='text/javascript' src='https://www.alphr.com/wp-includes/js/jquery/jquery.min.js' id='jquery-js'></script> <link
+rel="https://api.w.org/" href="https://www.alphr.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://www.alphr.com/wp-json/wp/v2/posts/329462" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.alphr.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.alphr.com/wp-includes/wlwmanifest.xml" /><link
+rel="canonical" href="https://www.alphr.com/find-model-number-laptop/" /><link
+rel='shortlink' href='https://www.alphr.com/?p=329462' /> <script type="application/ld+json">{
+                    "@context": "http://schema.org",
+                    "@type": "HowTo",
+                    "name": "How to Find the Model Number on a Laptop",
+                    "description": "A laptop\u2019s model number identifies the laptop line-up it belongs to. It\u2019s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of",
+                    "image": "",
+                    "step":[
+                                                {
+                            "@type": "HowToStep",
+                            "name": "",
+                            "image": "",
+                            "text": "At the bottom cover, base, or back of the laptop",
+                            "url": "https://www.alphr.com/find-model-number-laptop/#step1"
+                        },                                                {
+                            "@type": "HowToStep",
+                            "name": "",
+                            "image": "",
+                            "text": "The battery compartment",
+                            "url": "https://www.alphr.com/find-model-number-laptop/#step2"
+                        },                                                {
+                            "@type": "HowToStep",
+                            "name": "",
+                            "image": "",
+                            "text": "The screen, keyboard trim, or palm rest",
+                            "url": "https://www.alphr.com/find-model-number-laptop/#step3"
+                        }                                            ],
+                    "tool":[
+                                            ]
+                }</script> <script type="application/ld+json">{
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                                {
+                    "@type": "Question",
+                    "name": "How to find the model number for a Windows 10 or 11 laptop",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "<p>If you\u2019re unable to find the model number physically pasted on your laptop anywhere, try the command prompt or via System Information. Here\u2019s how:<\/p><p><\/p><p><strong>Using command prompt<\/strong><\/p><p>1. As an admin, open the command prompt.<\/p><p>2. Enter the following command:<\/p><p><strong>wmic csproduct get name<\/strong><\/p><p>3. The Model Number will be displayed.<\/p><p><\/p><p><strong>Using system information<\/strong><\/p><p>1. Press the <strong>Windows + X key<\/strong>, then hit <strong>Run<\/strong>.<\/p><p>2. Enter <strong>msinfo32<\/strong> in the command run box.<\/p><p>3. The model number for your laptop will be displayed in the <strong>System Information<\/strong> window.<\/p>"                    }
+                },                                {
+                    "@type": "Question",
+                    "name": "How to find a serial number on a Windows-based laptop",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "<p>Your laptop\u2019s serial number identifies its unique model. Manufacturers go by this number to determine whether it\u2019s still in warranty, for example. Follow these steps to find it on your Windows laptop:<\/p><p><\/p><p><strong>Using command prompt<\/strong><\/p><p>1. Type <strong>cmd<\/strong> into the <strong>search bar<\/strong>.<\/p><p>2. In the command prompt, type:<\/p><p><strong>wmic bios get serialnumber<\/strong><\/p><p>3. Hit <strong>Enter<\/strong>.<\/p><p>4. The serial number will display.<\/p><p><\/p><p><strong>Find it on the laptop<\/strong><\/p><p>1. If your computer is connected to a power source, disconnect it.<\/p><p>2. Turn it upside down, then find a label on the bottom.<\/p><p>3. The serial number will be a string of numbers starting with <strong>S\/N <\/strong>or <strong>Serial Number<\/strong>.<\/p>"                    }
+                }                            ]
+        }</script> <style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style><link
+rel="icon" href="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/cropped-favicon-big.png?fit=32%2C32&#038;ssl=1" sizes="32x32" /><link
+rel="icon" href="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/cropped-favicon-big.png?fit=192%2C192&#038;ssl=1" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/cropped-favicon-big.png?fit=180%2C180&#038;ssl=1" /><meta
+name="msapplication-TileImage" content="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/cropped-favicon-big.png?fit=270%2C270&#038;ssl=1" /><link
+rel="icon" type="image/svg+xml" href="https://www.alphr.com/wp-content/themes/alphr/images/favicon.ico"><meta
+name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1"/><meta
+name="description" content="A laptop’s model number identifies the laptop line-up it belongs to. It’s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of"><meta
+property="og:title" content="How to Find the Model Number on a Laptop"/><meta
+property="og:url" content="https://www.alphr.com/find-model-number-laptop/"/><meta
+property="og:image" content="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?fit=569%2C320&ssl=1"/><meta
+property="og:type" content="article"/><meta
+property="og:site_name" content="Alphr"/><meta
+property="og:description" content="A laptop’s model number identifies the laptop line-up it belongs to. It’s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of"/><meta
+name="twitter:card" content="summary_large_image"><meta
+name="twitter:site" content="@alphrcom"><meta
+name="twitter:creator" content="@alphrcom"><meta
+name="twitter:title" content="How to Find the Model Number on a Laptop"><meta
+name="twitter:description" content="A laptop’s model number identifies the laptop line-up it belongs to. It’s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of"><meta
+name="twitter:image" content="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?fit=569%2C320&ssl=1"> <script type="application/ld+json">{
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                                                {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "item": {
+                                "@id": "https://www.alphr.com/category/pc-mobile/",
+                                "name": "PC &amp; Mobile"
+                            }
+                        } ,                                                {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "item": {
+                                "@id": "https://www.alphr.com/category/pc-mobile/pc-mobile-devices/",
+                                "name": "Devices"
+                            }
+                        } ,                                                {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "item": {
+                                "@id": "https://www.alphr.com/category/pc-mobile/pc-mobile-devices/windows/",
+                                "name": "Windows"
+                            }
+                        }                                             ]
+                }</script> <script type="application/ld+json">{
+                    "@context": "https://schema.org",
+                    "@type": "Article",
+                    "mainEntityOfPage": {
+                        "@type": "WebPage",
+                        "@id": "https://www.alphr.com/find-model-number-laptop/"
+                    },
+                    "headline": "How to Find the Model Number on a Laptop",
+                    "image": [
+                        "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?resize=1200%2C1125&ssl=1", "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?resize=1280%2C960&ssl=1", "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?resize=1280%2C720&ssl=1", "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?fit=2000%2C1125&ssl=1", "https://www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_47_PM.png", "https://www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_56_PM.png", "https://www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_07_PM.png", "https://www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_24_PM.png", "https://www.alphr.com/wp-content/uploads/2022/02/alaal-1024x671.png", "https://www.alphr.com/wp-content/uploads/2022/02/1-8.png", "https://www.alphr.com/wp-content/uploads/2022/02/2-5.png", "https://www.alphr.com/wp-content/uploads/2022/03/serial.png", "https://www.alphr.com/wp-content/uploads/2022/02/1-4.png", "https://www.alphr.com/wp-content/uploads/2022/02/msinfo.png", "https://www.alphr.com/wp-content/uploads/2022/02/5-1.png", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-2-1.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-3.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-4.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-2.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-2.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-4.jpg", "https://www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg"                    ],
+                    "datePublished": "2022-03-07T00:00:00+00:00",
+                    "dateModified": "2022-12-21T11:32:20-06:00",
+                    "author": {
+                        "@type": "Person",
+                        "name": "Lee Stanton"
+                    },
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "Alphr",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg"
+                        }
+                    },
+                    "description": "A laptop\u2019s model number identifies the laptop line-up it belongs to. It\u2019s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of"                }</script> <script type="text/javascript">var ajaxurl = 'https://www.alphr.com/wp-admin/admin-ajax.php';</script>  <script data-cfasync="false" type="text/javascript" data-rand-value="100">window.adsLoaded = false;
+
+        var freestar = freestar || {};
+        freestar.queue = freestar.queue || [];
+        freestar.config = freestar.config || {};
+        freestar.config.enabled_slots = [];
+        freestar.initCallback = function () {
+            if (typeof window.initAds !== "undefined") {
+                window.initAds();
+            } else {
+                window.adsLoaded = true;
+            }
+            (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots)
+        }</script> <script src="https://a.pub.network/alphr-com/pubfig.min.js" async defer></script> </head><body><div
+class="off-canvas-wrap" data-offcanvas><main
+class="inner-wrap"><aside
+class="left-off-canvas-menu"><div
+class="mobile-menu-wrapper"><div
+class="sidebar-search-box__wr"><form
+action="/">
+<label
+for="search-sidebar-header" style="display: none;"></label>
+<input
+class="sidebar-search-box__query" type="text" name="s" id="search-sidebar-header">
+<button
+type="submit" class="sidebar-search-box__submit" aria-label="Search"><i
+class="icon-search"></i></button></form></div><ul
+id="menu-main" class="off-canvas-list mobile-menu"><li
+id="menu-item-259216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-259216 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/video-games/"><span>Gaming</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/xbox/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259220 submenu__item">Xbox</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/nintendo/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259218 submenu__item">Nintendo</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/playstation/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259217 submenu__item">PlayStation</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/twitch/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259221 submenu__item">Twitch</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/discord/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259219 submenu__item">Discord</a>
+<a
+href="https://www.alphr.com/category/video-games/games/minecraft/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259222 submenu__item">Minecraft</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/steam/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259223 submenu__item">Steam</a></div></li><li
+id="menu-item-260389" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-260389 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/pc-mobile/"><span>PC &amp; Mobile</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/android/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260392 submenu__item">Android</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/iphone/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260393 submenu__item">iPhone</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/chromebook/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260394 submenu__item">Chromebook</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/windows/"  class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-260395 submenu__item">Windows</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/mac/"  class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-260396 submenu__item">Mac</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-sheets/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260397 submenu__item">Google Sheets</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/zoom/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260398 submenu__item">Zoom</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-meet/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260399 submenu__item">Google Meet</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-photos/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260400 submenu__item">Google Photos</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/microsoft-teams/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260401 submenu__item">Microsoft Teams</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/zoho/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-414791 submenu__item">Zoho</a></div></li><li
+id="menu-item-260610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-260610 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/social-media/"><span>Social Media</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/social-media/social-networks/facebook/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260612 submenu__item">Facebook</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/instagram/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260617 submenu__item">Instagram</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/tiktok/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260616 submenu__item">TikTok</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/twitter/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260611 submenu__item">Twitter</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/snapchat/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260618 submenu__item">SnapChat</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/whatsapp/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260613 submenu__item">WhatsApp</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/telegram/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260614 submenu__item">Telegram</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/messenger/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260615 submenu__item">Messenger</a></div></li><li
+id="menu-item-261141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261141 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/internet/"><span>Internet</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/internet/security/vpns/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261149 submenu__item">VPNs</a>
+<a
+href="https://www.alphr.com/category/internet/alexa/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261142 submenu__item">Alexa</a>
+<a
+href="https://www.alphr.com/category/internet/google-photos-internet/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261145 submenu__item">Google Photos</a>
+<a
+href="https://www.alphr.com/category/internet/icloud/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261147 submenu__item">iCloud</a>
+<a
+href="https://www.alphr.com/category/internet/paypal/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261148 submenu__item">Paypal</a>
+<a
+href="https://www.alphr.com/category/internet/notion/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261146 submenu__item">Notion</a></div></li><li
+id="menu-item-261570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261570 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/cut-the-cord/"><span>Entertainment</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/chromecast/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261571 submenu__item">Chromecast</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/fire-tv-devices/fire-tv/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261572 submenu__item">Fire TVs</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/roku/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261573 submenu__item">Roku</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/netflix-cut-the-cord/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261574 submenu__item">Netflix</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/spotify/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261576 submenu__item">Spotify</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/kodi/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261577 submenu__item">Kodi</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/disney/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261575 submenu__item">Disney+</a></div></li><li
+id="menu-item-261706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261706 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/tech-devices/"><span>Gadgets</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261714 submenu__item">Smart Home</a>
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/amazon-echo/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261710 submenu__item">Echo</a>
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/google-home/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261711 submenu__item">Google Home</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tablets/ipad/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261708 submenu__item">iPad</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tablets/kindle-fire/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261709 submenu__item">Kindle Fire</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tvs/vizio/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261712 submenu__item">Vizio TVs</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tvs/samsung/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261713 submenu__item">Samsung TVs</a></div></li><li
+id="menu-item-344750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-344750 js-has-smenu main-menu__item"><a
+href="https://www.alphr.com/category/internet/security/vpns/"><span>VPNs</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/use-vpn-with-kodi/"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344752 submenu__item">Kodi</a>
+<a
+href="https://www.alphr.com/use-vpn-xbox-one/"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344753 submenu__item">Xbox</a>
+<a
+href="https://www.alphr.com/wp-admin/post.php?post=292243&#038;action=edit"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344751 submenu__item">On a Router</a>
+<a
+href="https://www.alphr.com/use-vpn-android/"  class="menu-item menu-item-type-post_type menu-item-object-post menu-item-344758 submenu__item">Android</a>
+<a
+href="https://www.alphr.com/technology/1006524/how-to-install-vpn-fire-tv-stick/"  class="menu-item menu-item-type-post_type menu-item-object-post menu-item-344759 submenu__item">Firestick</a></div></li></ul><div
+class="sidebar-subscribe"><h6 class="sidebar-subscribe__title">Subscribe Us</h6><form
+class="sidebar-subscribe__form" action="">
+<input
+class="sidebar-subscribe__input" placeholder="johndoe@example.com" type="text">
+<button
+type="submit" class="sidebar-subscribe__submit">Subscribe</button></form></div></div><a
+class="exit-off-canvas"></a></aside><header><div
+class="hide-for-large-up"><nav
+class="tab-bar"><section
+class="left-small">
+<a
+class="left-off-canvas-toggle menu-icon" href="#"><span></span></a></section></nav><div
+class="header-search__action js-header-search-action">
+<button
+class="header-search__button mod-loupe js-open-search" type="button" aria-label="search open">
+<img
+width="24" height="24" src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg" alt="search open">
+</button></div><div
+class="row"><div
+class="large-12 columns text-center"><div
+class="mobile-logo-container">
+<a
+class="header-logo_wr" href="https://www.alphr.com">
+<img
+class="header-logo" alt="Alphr" width="65" height="20" src="https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg">
+</a></div></div></div><div
+class="header-search__form"><form
+action="/">
+<input
+class="header-search__field" id="search-header" type="text" name="s" placeholder="Search">
+<button
+class="header-search__form-button" type="submit">
+<img
+width="24" height="24" src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg" alt="">
+</button></form></div></div><div
+class="row show-for-large-up large-collapse"><div
+class="large-12 columns p-static">
+<a
+class="header-logo_wr" href="https://www.alphr.com">
+<img
+class="header-logo" alt="Alphr" width="75" height="23"
+src="https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg">
+</a><nav
+class="main-nav"><ul
+id="menu-main-1" class="clearfix no-bullet main-menu"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-259216 main-menu__item"><a
+href="https://www.alphr.com/category/video-games/"><span>Gaming</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/xbox/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259220 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/xbox.png" class="submenu-icon" width="32" height="32"/>Xbox</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/nintendo/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259218 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/nintendo.png" class="submenu-icon" width="32" height="32"/>Nintendo</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-devices/playstation/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259217 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/playstation.png" class="submenu-icon" width="32" height="32"/>PlayStation</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/twitch/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259221 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/twitch.png" class="submenu-icon" width="32" height="32"/>Twitch</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/discord/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259219 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/discord.png" class="submenu-icon" width="32" height="32"/>Discord</a>
+<a
+href="https://www.alphr.com/category/video-games/games/minecraft/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259222 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/minecraft.png" class="submenu-icon" width="32" height="32"/>Minecraft</a>
+<a
+href="https://www.alphr.com/category/video-games/gaming-social/steam/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259223 submenu__item"><img
+src="https://www.alphr.com/wp-content/uploads/2022/03/steam.png" class="submenu-icon" width="32" height="32"/>Steam</a></div></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-260389 main-menu__item"><a
+href="https://www.alphr.com/category/pc-mobile/"><span>PC &amp; Mobile</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/android/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260392 submenu__item">Android</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/iphone/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260393 submenu__item">iPhone</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/chromebook/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260394 submenu__item">Chromebook</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/windows/"  class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-260395 submenu__item">Windows</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/mac/"  class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-260396 submenu__item">Mac</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-sheets/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260397 submenu__item">Google Sheets</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/zoom/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260398 submenu__item">Zoom</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-meet/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260399 submenu__item">Google Meet</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/google-photos/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260400 submenu__item">Google Photos</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/microsoft-teams/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260401 submenu__item">Microsoft Teams</a>
+<a
+href="https://www.alphr.com/category/pc-mobile/apps/zoho/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-414791 submenu__item">Zoho</a></div></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-260610 main-menu__item"><a
+href="https://www.alphr.com/category/social-media/"><span>Social Media</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/social-media/social-networks/facebook/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260612 submenu__item">Facebook</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/instagram/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260617 submenu__item">Instagram</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/tiktok/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260616 submenu__item">TikTok</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/twitter/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260611 submenu__item">Twitter</a>
+<a
+href="https://www.alphr.com/category/social-media/social-networks/snapchat/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260618 submenu__item">SnapChat</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/whatsapp/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260613 submenu__item">WhatsApp</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/telegram/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260614 submenu__item">Telegram</a>
+<a
+href="https://www.alphr.com/category/social-media/social-messaging/messenger/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260615 submenu__item">Messenger</a></div></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261141 main-menu__item"><a
+href="https://www.alphr.com/category/internet/"><span>Internet</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/internet/security/vpns/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261149 submenu__item">VPNs</a>
+<a
+href="https://www.alphr.com/category/internet/alexa/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261142 submenu__item">Alexa</a>
+<a
+href="https://www.alphr.com/category/internet/google-photos-internet/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261145 submenu__item">Google Photos</a>
+<a
+href="https://www.alphr.com/category/internet/icloud/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261147 submenu__item">iCloud</a>
+<a
+href="https://www.alphr.com/category/internet/paypal/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261148 submenu__item">Paypal</a>
+<a
+href="https://www.alphr.com/category/internet/notion/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261146 submenu__item">Notion</a></div></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261570 main-menu__item"><a
+href="https://www.alphr.com/category/cut-the-cord/"><span>Entertainment</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/chromecast/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261571 submenu__item">Chromecast</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/fire-tv-devices/fire-tv/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261572 submenu__item">Fire TVs</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-devices/roku/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261573 submenu__item">Roku</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/netflix-cut-the-cord/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261574 submenu__item">Netflix</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/spotify/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261576 submenu__item">Spotify</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/kodi/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261577 submenu__item">Kodi</a>
+<a
+href="https://www.alphr.com/category/cut-the-cord/streaming-services/disney/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261575 submenu__item">Disney+</a></div></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-261706 main-menu__item"><a
+href="https://www.alphr.com/category/tech-devices/"><span>Gadgets</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261714 submenu__item">Smart Home</a>
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/amazon-echo/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261710 submenu__item">Echo</a>
+<a
+href="https://www.alphr.com/category/tech-devices/smart-home/google-home/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261711 submenu__item">Google Home</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tablets/ipad/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261708 submenu__item">iPad</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tablets/kindle-fire/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261709 submenu__item">Kindle Fire</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tvs/vizio/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261712 submenu__item">Vizio TVs</a>
+<a
+href="https://www.alphr.com/category/tech-devices/tvs/samsung/"  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261713 submenu__item">Samsung TVs</a></div></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-344750 main-menu__item"><a
+href="https://www.alphr.com/category/internet/security/vpns/"><span>VPNs</span></a><div
+class="submenu">
+<a
+href="https://www.alphr.com/use-vpn-with-kodi/"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344752 submenu__item">Kodi</a>
+<a
+href="https://www.alphr.com/use-vpn-xbox-one/"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344753 submenu__item">Xbox</a>
+<a
+href="https://www.alphr.com/wp-admin/post.php?post=292243&#038;action=edit"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344751 submenu__item">On a Router</a>
+<a
+href="https://www.alphr.com/use-vpn-android/"  class="menu-item menu-item-type-post_type menu-item-object-post menu-item-344758 submenu__item">Android</a>
+<a
+href="https://www.alphr.com/technology/1006524/how-to-install-vpn-fire-tv-stick/"  class="menu-item menu-item-type-post_type menu-item-object-post menu-item-344759 submenu__item">Firestick</a></div></li></ul></nav><div
+class="header__toolbar"><div
+class="header-search"><div
+class="header-search__action js-header-search-action">
+<button
+class="header-search__button mod-loupe js-open-search" type="button" aria-label="search open">
+<img
+width="24" height="24" src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg" alt="search open">
+</button></div></div></div><div
+class="header-search__form"><form
+action="/">
+<label
+for="search-header" style="display: none;"></label>
+<input
+class="header-search__field" id="search-header" type="text" name="s" placeholder="Search">
+<button
+class="header-search__form-button" type="submit">Search</button></form></div></div></div></header><div
+id="video-right-rail"></div><section
+class="main-section "><div
+class="row article new-post"><div
+class="columns article__content-wrapper new-post__content"><div
+class="new-post__header"><div
+class="new-post__breadcrumbs"><ul
+class="new-post__breadcrumbs-list"><li
+class="new-post__breadcrumbs-item">
+<a
+class="new-post__breadcrumbs-link" href="/">Home</a></li><li
+class="new-post__breadcrumbs-item new-post__breadcrumbs-item--icon">
+<i
+class="icon-arrow-breadcrumbs"></i></li><li
+class="new-post__breadcrumbs-item">
+<a
+class="new-post__breadcrumbs-link" href="https://www.alphr.com/category/pc-mobile/">
+PC &amp; Mobile                                        </a></li><li
+class="new-post__breadcrumbs-item new-post__breadcrumbs-item--icon">
+<i
+class="icon-arrow-breadcrumbs"></i></li><li
+class="new-post__breadcrumbs-item">
+<a
+class="new-post__breadcrumbs-link" href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/">
+Devices                                        </a></li><li
+class="new-post__breadcrumbs-item new-post__breadcrumbs-item--icon">
+<i
+class="icon-arrow-breadcrumbs"></i></li><li
+class="new-post__breadcrumbs-item">
+<a
+class="new-post__breadcrumbs-link" href="https://www.alphr.com/category/pc-mobile/pc-mobile-devices/windows/">
+Windows                                        </a></li></ul></div><div
+class="article-top-bar new-post__header-content"><h1 class="new-post__header-title">How to Find the Model Number on a Laptop</h1><div
+class="new-post__top-bar clearfix"><div
+class="new-post__author">                                    <img
+src="https://secure.gravatar.com/avatar/73ebe966637e779c9dea409c23504601?s=64&#038;d=mm&#038;r=g" alt="" width="32" height="32"/><p>
+<span
+class="new-post__author-name">
+<a
+href="https://www.alphr.com/author/arch/" title="Author Lee Stanton">Lee Stanton</a><span
+class="author-tooltip" style="display: none;">
+<span
+class="author-tooltip__box"><span
+class="author-tooltip__text">
+</span><span
+class="author-tooltip__bar">
+<a
+href="https://www.alphr.com/author/arch/" class="author-tooltip__bar-link" title="Read more">Read more</a><span
+class="author-tooltip__bar-social">
+</span>
+</span>
+</span>
+</span>
+</span>
+<span
+class="new-post__published-time">
+December 21, 2022                                        </span></p></div><div
+class="new-post__social"><div
+class="article-shares"><ul><li>
+<a
+href="#" title="Share to Facebook" rel=”nofollow”
+onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+ encodeURIComponent(window.location), 'pop', 'width=600, height=400, scrollbars=no'); return false;"
+class="btn-share"><svg
+class="share-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M8.60594 2.20594C9.50611 1.30576 10.727 0.800049 12 0.800049H14.4C14.8419 0.800049 15.2 1.15822 15.2 1.60005V4.80005C15.2 5.24188 14.8419 5.60005 14.4 5.60005H12V7.20005H14.4C14.6464 7.20005 14.879 7.31355 15.0306 7.50772C15.1822 7.70189 15.2359 7.95508 15.1762 8.19408L14.3762 11.3941C14.2871 11.7502 13.9671 12 13.6 12H12V17.6C12 18.0419 11.6419 18.4 11.2 18.4H8.00005C7.55822 18.4 7.20005 18.0419 7.20005 17.6V12H5.60005C5.15822 12 4.80005 11.6419 4.80005 11.2V8.00005C4.80005 7.55822 5.15822 7.20005 5.60005 7.20005H7.20005V5.60005C7.20005 4.32701 7.70576 3.10611 8.60594 2.20594ZM12 2.40005C11.1514 2.40005 10.3374 2.73719 9.73731 3.33731C9.13719 3.93742 8.80005 4.75136 8.80005 5.60005V8.00005C8.80005 8.44188 8.44188 8.80005 8.00005 8.80005H6.40005V10.4H8.00005C8.44188 10.4 8.80005 10.7582 8.80005 11.2V16.8H10.4V11.2C10.4 10.7582 10.7582 10.4 11.2 10.4H12.9754L13.3754 8.80005H11.2C10.7582 8.80005 10.4 8.44188 10.4 8.00005V5.60005C10.4 5.1757 10.5686 4.76874 10.8687 4.46868C11.1687 4.16862 11.5757 4.00005 12 4.00005H13.6V2.40005H12Z" fill="currentColor"/>
+</svg>
+</a></li><li>
+<a
+href="https://twitter.com/intent/tweet?text=How to Find the Model Number on a Laptop&url=https://www.alphr.com/find-model-number-laptop/"
+onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent('How to Find the Model Number on a Laptop')+'&url='+ encodeURIComponent(window.location), 'pop', 'width=600, height=400, scrollbars=no'); return false;"
+target="_blank"
+title="Share to Twitter"
+rel=”nofollow”
+class="btn-share">
+<svg
+class="share-icon" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g
+clip-path="url(#clip0)">
+<path
+d="M6.57092 17.3375C4.51259 17.3375 2.37509 16.7833 0.47509 15.675C0.158423 15.5166 8.97199e-05 15.1208 0.0792564 14.8041C0.158423 14.4875 0.47509 14.25 0.791756 14.25C2.13759 14.3291 3.48342 14.0125 4.67092 13.4583C1.74176 11.6375 0.95009 9.10412 0.870923 7.12495C0.791756 4.82912 1.58342 2.92912 1.66259 2.84995C1.74176 2.61245 1.97926 2.37495 2.29592 2.37495C2.61259 2.37495 2.85009 2.45412 3.00842 2.69162C4.35426 4.59162 6.41259 5.77912 8.70842 5.93745C8.70842 4.67078 9.26259 3.48328 10.2126 2.61245C11.8751 1.18745 14.3293 1.18745 15.9918 2.61245C16.6251 2.37495 17.2584 2.05828 17.8126 1.66245C18.0501 1.50412 18.4459 1.50412 18.6834 1.66245C18.9209 1.82078 19.0793 2.21662 19.0001 2.53328C18.7626 3.64162 18.2084 4.67078 17.4168 5.54162C17.4168 5.69995 17.4168 5.77912 17.4168 5.93745C17.4168 10.2916 15.5168 13.9333 12.1126 15.8333C10.4501 16.8625 8.55009 17.3375 6.57092 17.3375ZM3.95842 15.4375C6.57092 16.0708 9.18342 15.7541 11.4001 14.4875C14.2501 12.825 15.9126 9.65829 15.9126 5.93745C15.9126 5.77912 15.9126 5.62078 15.8334 5.46245C15.7543 5.22495 15.8334 4.90828 16.0709 4.74995C16.2293 4.59162 16.3876 4.35412 16.5459 4.19578C16.3876 4.27495 16.1501 4.35412 15.9918 4.35412C15.6751 4.43328 15.3584 4.35412 15.2001 4.11662C14.1709 3.00828 12.4293 2.84995 11.3209 3.87912C10.6084 4.35412 10.2918 5.14578 10.2918 5.93745V6.72912C10.2918 7.12495 9.97509 7.52078 9.50009 7.52078C6.88759 7.59995 4.43342 6.57078 2.69176 4.74995C2.21676 6.80828 2.05842 10.6875 6.65009 12.6666C6.88759 12.825 7.12509 13.0625 7.12509 13.3791C7.12509 13.6958 7.04592 13.9333 6.80842 14.0916C5.85842 14.725 4.90842 15.2 3.95842 15.4375Z" fill="currentColor"/>
+</g>
+<defs>
+<clipPath
+id="clip0">
+<path
+d="M0 0H19V19H0V0Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+</a></li><li>
+<a
+href="https://www.reddit.com/submit"
+onclick="popUp=window.open('https://www.reddit.com/submit?url=' + encodeURIComponent(window.location), 'Reddit', 'toolbar=yes,scrollbars=yes,resizable=yes,top=100,left=300,width=600,height=500'); return false"
+title="Share to Reddit"
+rel=”nofollow”
+class="btn-share">
+<svg
+class="share-icon mod-stroke" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M12.1499 2C11.7632 2 11.3926 2.1579 11.1187 2.41247C10.8448 2.66703 10.6498 3.00377 10.5 3.40496C10.2342 4.12033 10.123 5.04999 10.1004 6.13754C8.12188 6.19877 6.30123 6.71113 4.84149 7.55539C4.40163 7.14293 3.84094 6.9367 3.28185 6.9367C2.70021 6.9367 2.11696 7.16065 1.67066 7.60695C0.776447 8.50117 0.776447 9.93513 1.67066 10.8293L1.77378 10.9325C1.55465 11.5012 1.42576 12.1006 1.42576 12.7241C1.42576 14.5915 2.48431 16.2655 4.13256 17.4417C5.78081 18.6178 8.02843 19.3236 10.5 19.3236C12.9716 19.3236 15.2192 18.6178 16.8674 17.4417C18.5157 16.2655 19.5742 14.5915 19.5742 12.7241C19.5742 12.1006 19.4453 11.5012 19.2262 10.9325L19.3293 10.8293C20.2236 9.93513 20.2236 8.50117 19.3293 7.60695C18.883 7.16065 18.2998 6.9367 17.7181 6.9367C17.1591 6.9367 16.5984 7.14293 16.1585 7.55539C14.7052 6.71596 12.8926 6.2036 10.9254 6.13754C10.9511 5.11283 11.0623 4.25567 11.2734 3.68853C11.3926 3.3679 11.5424 3.1375 11.6858 3.00538C11.8292 2.87327 11.9597 2.82493 12.1499 2.82493C12.34 2.82493 12.4318 2.87649 12.5752 2.9925C12.7186 3.1085 12.8862 3.29862 13.1037 3.52097C13.492 3.91893 14.0865 4.35718 15.0758 4.44901C15.2595 5.39801 16.0989 6.12466 17.0994 6.12466C18.2337 6.12466 19.1618 5.19661 19.1618 4.06233C19.1618 2.92805 18.2337 2 17.0994 2C16.1118 2 15.274 2.7057 15.0758 3.63697C14.3411 3.56608 14.0172 3.28251 13.6966 2.95383C13.5113 2.76371 13.3405 2.54136 13.1037 2.34802C12.8668 2.15467 12.5365 2 12.1499 2ZM17.0994 2.82493C17.7874 2.82493 18.3368 3.37435 18.3368 4.06233C18.3368 4.75031 17.7874 5.29972 17.0994 5.29972C16.4115 5.29972 15.8621 4.75031 15.8621 4.06233C15.8621 3.37435 16.4115 2.82493 17.0994 2.82493ZM10.5 6.94959C12.8137 6.94959 14.9034 7.61501 16.3905 8.67679C17.8777 9.73856 18.7493 11.1677 18.7493 12.7241C18.7493 14.2805 17.8777 15.7096 16.3905 16.7714C14.9034 17.8332 12.8137 18.4986 10.5 18.4986C8.18633 18.4986 6.09661 17.8332 4.60948 16.7714C3.12234 15.7096 2.25069 14.2805 2.25069 12.7241C2.25069 11.1677 3.12234 9.73856 4.60948 8.67679C6.09661 7.61501 8.18633 6.94959 10.5 6.94959ZM3.28185 7.74874C3.57187 7.74874 3.86511 7.83574 4.11967 8.01942C3.29313 8.61234 2.61643 9.32932 2.14757 10.1333C1.66583 9.54683 1.69805 8.73962 2.25069 8.18698C2.54554 7.89213 2.9145 7.74874 3.28185 7.74874ZM17.7181 7.74874C18.0855 7.74874 18.4545 7.89213 18.7493 8.18698C19.302 8.73962 19.3342 9.54683 18.8524 10.1333C18.3836 9.32932 17.7069 8.61234 16.8803 8.01942C17.1349 7.83574 17.4281 7.74874 17.7181 7.74874ZM7.20028 9.83684C6.29317 9.83684 5.55041 10.5796 5.55041 11.4867C5.55041 12.3938 6.29317 13.1366 7.20028 13.1366C8.10738 13.1366 8.85014 12.3938 8.85014 11.4867C8.85014 10.5796 8.10738 9.83684 7.20028 9.83684ZM13.7997 9.83684C12.8926 9.83684 12.1499 10.5796 12.1499 11.4867C12.1499 12.3938 12.8926 13.1366 13.7997 13.1366C14.7068 13.1366 15.4496 12.3938 15.4496 11.4867C15.4496 10.5796 14.7068 9.83684 13.7997 9.83684ZM7.20028 10.6618C7.66108 10.6618 8.02521 11.0259 8.02521 11.4867C8.02521 11.9475 7.66108 12.3116 7.20028 12.3116C6.73947 12.3116 6.37534 11.9475 6.37534 11.4867C6.37534 11.0259 6.73947 10.6618 7.20028 10.6618ZM13.7997 10.6618C14.2605 10.6618 14.6247 11.0259 14.6247 11.4867C14.6247 11.9475 14.2605 12.3116 13.7997 12.3116C13.3389 12.3116 12.9748 11.9475 12.9748 11.4867C12.9748 11.0259 13.3389 10.6618 13.7997 10.6618ZM14.2766 14.722C14.2541 14.7252 14.2331 14.7284 14.2122 14.7349C14.0817 14.7607 13.9721 14.846 13.9157 14.9669C13.9157 14.9669 13.6998 15.2666 13.1552 15.6114C12.6107 15.9562 11.7616 16.3074 10.5 16.3074C9.23843 16.3074 8.38934 15.9562 7.84475 15.6114C7.30017 15.2666 7.08427 14.9669 7.08427 14.9669C6.99082 14.8203 6.8152 14.7478 6.64602 14.7864C6.5123 14.8203 6.40435 14.9169 6.35762 15.0474C6.3109 15.1763 6.33184 15.3197 6.41401 15.4309C6.41401 15.4309 6.73142 15.8885 7.39362 16.3074C8.05582 16.7263 9.08054 17.1323 10.5 17.1323C11.9195 17.1323 12.9442 16.7263 13.6064 16.3074C14.2686 15.8885 14.586 15.4309 14.586 15.4309C14.71 15.3117 14.7471 15.1264 14.6778 14.9685C14.6085 14.8106 14.449 14.7123 14.2766 14.722Z" fill="currentColor" stroke="currentColor" stroke-width="0.5"/>
+</svg></a></li></ul></div>
+<a
+class="new-post__print js-email-to" href="#" rel="nofollow">
+<img
+src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-send.svg" width="21" height="19" alt="Send Email">
+</a></div></div></div></div><div
+id="post-329462"><div
+class="content clearfix entry-content js-post-content">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><p>A laptop&rsquo;s model number identifies the laptop line-up it belongs to. It&rsquo;s good to know when troubleshooting a problem, locating the right hardware upgrade, or buying a compatible accessory. The model number, along with a bunch of other useful information specific to your laptop, can be found in several places.</p><div
+align="center" id="alphr_article_mobile_incontent_1" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><div
+align="center" id="alphr_article_desktop_incontent" data-freestar-ad="__728x90" class="desktop-lazy-ads" style="min-height: 90px;"></div><img
+loading="lazy" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?resize=738%2C320&amp;ssl=1" style="padding-top:15px;padding-bottom:15px; width: 100%" class="main-img ggnoads wp-post-image" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?resize=738%2C320&amp;ssl=1 738w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?zoom=2&amp;resize=738%2C320&amp;ssl=1 1476w" sizes="(max-width: 690px) 100vw, 690px" width="738" height="320" alt="How to Find the Model Number on a Laptop"><p>Read on to learn some of the various ways to find the model number of your laptop.</p><h2>How to Find the Model Number on an Apple Laptop</h2><p>The easiest way to confirm the model number of your Apple laptop is to turn it over. It will be part of the fine print at the top of the case. If you still have it, it can also be found on the original packaging. Alternatively, you can find it in <strong>Systems Report</strong>. Here are the steps to get there:</p><ol
+type="1"><li>Click on the <strong>Apple icon</strong> in the upper-left corner of the screen.<br><img
+width="404" height="305" class="wp-image-414656" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_47_PM.png?resize=404%2C305&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_47_PM.png?w=404&amp;ssl=1 404w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_47_PM.png?resize=300%2C226&amp;ssl=1 300w" sizes="(max-width: 404px) 100vw, 404px" data-recalc-dims="1"></li><li>Select <strong>About This Mac</strong>.<br><img
+loading="lazy" width="420" height="318" class="wp-image-414655" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_56_PM.png?resize=420%2C318&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_56_PM.png?w=420&amp;ssl=1 420w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_57_56_PM.png?resize=300%2C227&amp;ssl=1 300w" sizes="(max-width: 420px) 100vw, 420px" data-recalc-dims="1"></li><li>Click <strong>More&hellip;</strong><br><img
+loading="lazy" width="309" height="530" class="wp-image-414657" style="width: 250px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_07_PM.png?resize=309%2C530&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_07_PM.png?w=309&amp;ssl=1 309w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_07_PM.png?resize=175%2C300&amp;ssl=1 175w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_07_PM.png?resize=187%2C320&amp;ssl=1 187w" sizes="(max-width: 309px) 100vw, 309px" data-recalc-dims="1"></li><li>Scroll down the new window and click <strong>System Report</strong>.<br><img
+loading="lazy" width="690" height="600" class="wp-image-414658" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_24_PM.png?resize=690%2C600&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_24_PM.png?w=746&amp;ssl=1 746w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_24_PM.png?resize=300%2C261&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/Screenshot_2022-12-21_at_3_58_24_PM.png?resize=368%2C320&amp;ssl=1 368w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>The model number will be displayed next to the <strong>Model Identifier</strong>.</li></ol><div
+align="center" id="alphr_article_desktop_incontent_2" data-freestar-ad="__728x90" class="desktop-lazy-ads" style="min-height: 90px;"></div><h2>How to Find the Model Number on a Dell Laptop</h2><p>Like Apple laptops, the easiest way to find your Dell model number is by locating it on the laptop packaging or the identification label. The identification label can be found in various places. If you&rsquo;re having trouble finding it, try the following locations:</p><div
+id="FreeStarVideoAdContainer"><div
+id="freestar-video-parent"><div
+id="freestar-video-child"></div></div></div><div
+id="FreeStarVideoAdContainer_Mobile"><div
+id="freestar-video-parent"><div
+id="freestar-video-child"></div></div></div><ul><li
+id="step1">At the bottom cover, base, or back of the laptop</li><li
+id="step2">The battery compartment</li><li
+id="step3">The screen, keyboard trim, or palm rest</li></ul><figure
+class="wp-block-image size-large"><img
+loading="lazy" width="690" height="452" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=690%2C452&#038;ssl=1" alt="" class="wp-image-333592" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=1024%2C671&amp;ssl=1 1024w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=300%2C197&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=768%2C503&amp;ssl=1 768w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=1536%2C1006&amp;ssl=1 1536w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=489%2C320&amp;ssl=1 489w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?resize=100%2C67&amp;ssl=1 100w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?w=1609&amp;ssl=1 1609w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/alaal.png?w=1380&amp;ssl=1 1380w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></figure><p>The model number is the alphanumeric number displayed next to <strong>Reg Model</strong>.</p><div
+align="center" id="alphr_article_mobile_incontent_2" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><h3>Device Specifications</h3><p>The model number can also be found in <strong>Device specifications</strong> via the <strong>Windows Settings</strong> menu. Follow these steps to find it:</p><ol
+type="1"><li>Right-click the <strong>Start</strong> button, then choose <strong>System</strong>.<br><img
+loading="lazy" width="516" height="635" class="wp-image-333561" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-8.png?resize=516%2C635&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-8.png?w=516&amp;ssl=1 516w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-8.png?resize=244%2C300&amp;ssl=1 244w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-8.png?resize=260%2C320&amp;ssl=1 260w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1"></li><li>The <strong>About</strong> screen will open.<br><img
+loading="lazy" width="690" height="475" class="wp-image-333562" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/2-5.png?resize=690%2C475&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/2-5.png?w=749&amp;ssl=1 749w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/2-5.png?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/2-5.png?resize=464%2C320&amp;ssl=1 464w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>The make and model numbers are listed beneath <strong>Device specifications</strong>.</li></ol><h3>Dell SupportAssist App</h3><p>You can also find the model number and other helpful information about your Dell via Dell&rsquo;s maintenance application called &ldquo;SupportAssist.&rdquo; Here&rsquo;s how:</p><ol
+type="1"><li>Launch <strong>Windows Search</strong> from the <strong>Start</strong> menu, then enter <strong>SupportAssist</strong>.</li><li>Choose <strong>SupportAssist</strong> from the listed results.</li><li>The <strong>SupportAssist</strong> home screen will launch and display your laptop&rsquo;s model number.</li></ol><h2>How to Find the Model Number on a Lenovo Laptop</h2><p>Your Lenovo laptop&rsquo;s model number can be found in various ways. Here are three of the quickest:</p><p>First up, it will be printed on the product label, which can be found in any of the following locations:</p><div
+align="center" id="alphr_article_mobile_incontent_3" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><ul><li
+id="step1">Near the keyboard</li><li
+id="step2">On the label at the back, towards the bottom of the laptop</li><li
+id="step3">On the LCD Bezel</li><li
+id="step4">On the label inside the battery compartment</li></ul><figure
+class="wp-block-image size-full"><img
+loading="lazy" width="597" height="399" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/serial.png?resize=597%2C399&#038;ssl=1" alt="" class="wp-image-333576" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/serial.png?w=597&amp;ssl=1 597w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/serial.png?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/serial.png?resize=479%2C320&amp;ssl=1 479w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/serial.png?resize=100%2C67&amp;ssl=1 100w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1"></figure><h3>Locate Using BIOS</h3><p>In the BIOS (Basic Input/Output System), you can find lots of system information about your laptop, including its model number. Follow these steps to do so:</p><ol
+type="1"><li>You&rsquo;ll need to restart your laptop, so ensure you&rsquo;ve saved all your work and closed all active apps.</li><li>When the Lenovo logo appears during bootup, start to press the <strong>F1</strong> key continuously. Some models may require the <strong>Enter</strong> key to be pressed continuously instead of the <strong>F1</strong>.</li><li>You should be taken to the BIOS main menu. If not, restart your laptop and try the steps again.</li><li>Once you enter the BIOS successfully, system information, such as the model number, will be displayed.</li></ol><div
+align="center" id="alphr_article_desktop_incontent_3" data-freestar-ad="__728x90" class="desktop-lazy-ads" style="min-height: 90px;"></div><h2>How to Find the Model Number on an HP Laptop</h2><p>The model number for your HP laptop is typically located on the side, back, or top of the laptop case. It can also be found under the battery. Here&rsquo;s how to get it via <strong>System Information</strong>:</p><ol
+type="1"><li>Press the <strong>Windows + R</strong> <strong>keys</strong> together to open the Run command window.<br><img
+loading="lazy" width="471" height="301" class="wp-image-333453" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-4.png?resize=471%2C301&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-4.png?w=471&amp;ssl=1 471w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/1-4.png?resize=300%2C192&amp;ssl=1 300w" sizes="(max-width: 471px) 100vw, 471px" data-recalc-dims="1"></li><li>On laptops running Windows 7 or later, right-click the <strong>Start</strong> menu, then click <strong>Run</strong>.</li><li>In the Run command prompt, type in <strong>msinfo32</strong>, then click <strong>OK</strong>.<br><img
+loading="lazy" width="478" height="294" class="wp-image-333587" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/msinfo.png?resize=478%2C294&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/msinfo.png?w=478&amp;ssl=1 478w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/msinfo.png?resize=300%2C185&amp;ssl=1 300w" sizes="(max-width: 478px) 100vw, 478px" data-recalc-dims="1"></li><li>This will launch the Windows System information utility. The model number can be found to the right of the <strong>System SKU</strong> option.<br><img
+loading="lazy" width="690" height="545" class="wp-image-333590" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/5-1.png?resize=690%2C545&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/5-1.png?w=797&amp;ssl=1 797w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/5-1.png?resize=300%2C237&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/5-1.png?resize=768%2C607&amp;ssl=1 768w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/5-1.png?resize=405%2C320&amp;ssl=1 405w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li></ol><h2>How to Find the Model Number on ASUS Laptop</h2><p>The model number of your ASUS laptop can be found in a few places. Follow these steps to find it:</p><ol
+type="1"><li>You may need to flip your laptop over, so turn it off first.</li><li>Look at the bottom for a sticker listing the system information. The model number will be included.</li></ol><p>Note that it may also display on the inside of the battery compartment.</p><div
+align="center" id="alphr_article_mobile_incontent_4" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><h3>Locate Using BIOS</h3><p>Here&rsquo;s how to find out from the BIOS:</p><ol
+type="1"><li>Ensure all your work is saved and all programs are closed before restarting your laptop.</li><li>Once the ASUS logo appears during bootup, press the <strong>F1</strong> key continuously or press the <strong>Enter</strong> key.</li><li>The BIOS main menu will display. If it doesn&rsquo;t, restart your laptop and try again.</li><li>Here you&rsquo;ll see various system information, including the model number.</li></ol><p>Note: Your laptop may use different BIOS keys. To find your laptop&rsquo;s specific keys, check the manufacturer&rsquo;s website.</p><h2>How to Find the Model Number on My Acer Laptop</h2><p>You can find the model number of your Acer laptop by flipping it over, and it should be displayed on the tag at the bottom of your laptop. If not, you&rsquo;ll find it by accessing the BIOS. Here&rsquo;s how:</p><ol
+type="1"><li>You&rsquo;ll need to restart your laptop, so save all your work and close all open applications.</li><li>Once the Acer logo appears during bootup, continuously press the <strong>F2</strong> key.</li><li>This should take you to the BIOS main menu. If not, restart your laptop, then try again.</li><li>Once the BIOS menu displays, your model number will be listed amongst the other system information.</li></ol><p>Note: Your laptop may use different BIOS keys. To find your laptop&rsquo;s specific keys, check the manufacturer&rsquo;s website.</p><div
+align="center" id="alphr_article_mobile_incontent_5" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><h2>How to Find the Model Number on a Windows-Based Laptop</h2><p>A PC&rsquo;s model number can be found in various places. Here, we&rsquo;ll look at three easy ways to find it.</p><h3>Use System Information</h3><p>To locate the model number of your Windows-based computer, follow these steps:</p><ol
+type="1"><li
+id="step1">Click on <strong>Start</strong>.<br><img
+loading="lazy" width="690" height="356" class="wp-image-333316" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=690%2C356&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=620%2C320&amp;ssl=1 620w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li
+id="step2">Enter a search for <strong>System Information</strong>, then click on the result.<br><img
+loading="lazy" width="333" height="636" class="wp-image-333594" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-2-1.jpg?resize=333%2C636&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-2-1.jpg?w=333&amp;ssl=1 333w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-2-1.jpg?resize=157%2C300&amp;ssl=1 157w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-2-1.jpg?resize=168%2C320&amp;ssl=1 168w" sizes="(max-width: 333px) 100vw, 333px" data-recalc-dims="1"></li><li
+id="step3">Select <strong>System Summary</strong>.<br><img
+loading="lazy" width="690" height="488" class="wp-image-333318" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-3.jpg?resize=690%2C488&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-3.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-3.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-3.jpg?resize=453%2C320&amp;ssl=1 453w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li
+id="step4">Beneath the <strong>System Model</strong> field, you&rsquo;ll find your computer&rsquo;s <strong>Model Number</strong>.<br><img
+loading="lazy" width="690" height="488" class="wp-image-333319" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-4.jpg?resize=690%2C488&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-4.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-4.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-4.jpg?resize=453%2C320&amp;ssl=1 453w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li></ol><h3>Use Command Prompt</h3><p>To find your computer&rsquo;s model number using Command Prompt, follow these steps:</p><ol
+type="1"><li>Launch <strong>Start</strong>.<br><img
+loading="lazy" width="690" height="356" class="wp-image-333316" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=690%2C356&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=620%2C320&amp;ssl=1 620w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>Enter a search for <strong>Command Prompt</strong> and click on it.<br><img
+loading="lazy" width="338" height="582" class="wp-image-333320" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-2.jpg?resize=338%2C582&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-2.jpg?w=338&amp;ssl=1 338w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-2.jpg?resize=174%2C300&amp;ssl=1 174w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-2.jpg?resize=186%2C320&amp;ssl=1 186w" sizes="(max-width: 338px) 100vw, 338px" data-recalc-dims="1"></li><li>To see your computer&rsquo;s model number, enter the following command:<br><code><strong>wmic csproduct get name</strong></code><br><img
+loading="lazy" width="690" height="467" class="wp-image-333322" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg?resize=690%2C467&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg?resize=300%2C203&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg?resize=472%2C320&amp;ssl=1 472w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-4.jpg?resize=100%2C67&amp;ssl=1 100w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>Alternatively, to display the model and serial number, enter the command:<br><code><strong>wmic csproduct get name, identifyingnumber</strong></code><br><img
+loading="lazy" width="690" height="467" class="wp-image-333321" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg?resize=690%2C467&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg?resize=300%2C203&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg?resize=472%2C320&amp;ssl=1 472w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-Command-Prompt-3.jpg?resize=100%2C67&amp;ssl=1 100w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li></ol><h3>Use PowerShell</h3><p>Follow these steps to find your PC&rsquo;s model number in PowerShell:</p><div
+align="center" id="alphr_article_mobile_incontent_6" class="mobile-content-ads" data-freestar-ad="__336x280" style="min-height: 280px;"></div><ol
+type="1"><li>Open <strong>Start</strong>.<br><img
+loading="lazy" width="690" height="356" class="wp-image-333316" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=690%2C356&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/How-to-Find-Model-Number-on-Windows-Based-PC-1.jpg?resize=620%2C320&amp;ssl=1 620w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>Enter a search for <strong>PowerShell</strong>, then open it.<br><img
+loading="lazy" width="331" height="582" class="wp-image-333324" style="width: 350px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-2.jpg?resize=331%2C582&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-2.jpg?w=331&amp;ssl=1 331w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-2.jpg?resize=171%2C300&amp;ssl=1 171w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-2.jpg?resize=182%2C320&amp;ssl=1 182w" sizes="(max-width: 331px) 100vw, 331px" data-recalc-dims="1"></li><li>Type in the following command to display your PC&rsquo;s model number:<br><code><strong>Get-CimInstance &ndash; ClassName Win32_ComputerSystem</strong></code><br><img
+loading="lazy" width="690" height="471" class="wp-image-333325" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg?resize=690%2C471&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg?resize=300%2C205&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg?resize=469%2C320&amp;ssl=1 469w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-3.jpg?resize=100%2C67&amp;ssl=1 100w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li><li>Hit <strong>Enter</strong>.<br><img
+loading="lazy" width="563" height="317" class="wp-image-333326" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-4.jpg?resize=563%2C317&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-4.jpg?w=563&amp;ssl=1 563w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-4.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-4.jpg?resize=1280%2C720&amp;ssl=1 1280w" sizes="(max-width: 563px) 100vw, 563px" data-recalc-dims="1"></li><li>Alternatively, type in this command prompt to display the model and serial number:<br><code><strong>Get-CimInstance &ndash; ClassName Win32_bios.</strong></code><br><img
+loading="lazy" width="690" height="471" class="wp-image-333323" style="width: 500px;" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg?resize=690%2C471&#038;ssl=1" alt="" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg?resize=300%2C205&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg?resize=469%2C320&amp;ssl=1 469w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/02/Use-PowerShell-5.jpg?resize=100%2C67&amp;ssl=1 100w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></li></ol><h2>Additional FAQs</h2><h3 class="tj-custom-question">How to find the model number for a Windows 10 or 11 laptop</h3><p
+class="tj-custom-answer"></p><p>If you&rsquo;re unable to find the model number physically pasted on your laptop anywhere, try the command prompt or via System Information. Here&rsquo;s how:</p><p></p><p><strong>Using command prompt</strong></p><p>1. As an admin, open the command prompt.</p><p>2. Enter the following command:</p><p><code><strong>wmic csproduct get name</strong></code></p><p>3. The Model Number will be displayed.</p><p></p><p><strong>Using system information</strong></p><p>1. Press the <strong>Windows + X key</strong>, then hit <strong>Run</strong>.</p><p>2. Enter <code><strong>msinfo32</strong></code> in the command run box.</p><p>3. The model number for your laptop will be displayed in the <strong>System Information</strong> window.</p><h3 class="tj-custom-question">How to find a serial number on a Windows-based laptop</h3><p
+class="tj-custom-answer"></p><p>Your laptop&rsquo;s serial number identifies its unique model. Manufacturers go by this number to determine whether it&rsquo;s still in warranty, for example. Follow these steps to find it on your Windows laptop:</p><p></p><p><strong>Using command prompt</strong></p><p>1. Type <code><strong>cmd</strong></code> into the <strong>search bar</strong>.</p><p>2. In the command prompt, type:</p><p><code><strong>wmic bios get serialnumber</strong></code></p><p>3. Hit <strong>Enter</strong>.</p><p>4. The serial number will display.</p><p></p><p><strong>Find it on the laptop</strong></p><p>1. If your computer is connected to a power source, disconnect it.</p><p>2. Turn it upside down, then find a label on the bottom.</p><p>3. The serial number will be a string of numbers starting with <strong>S/N </strong>or <strong>Serial Number</strong>.</p><h2>What Model Is Your Laptop?</h2><p>A laptop&rsquo;s model combines digits, letters, or characters representing its brand, design, and manufacturer information. The model number says which laptop line-up it belongs to. It&rsquo;s not to be confused with the serial number, which is like a unique identification number.</p><p>The model number can be found in several places, including its packaging, physically on it, or from various internal system menus. It is handy when buying hardware specific to your laptop or for troubleshooting purposes.</p><p>How many laptops and or PCs have you owned or had access to? What models were they? Tell us about your favorite laptop or PC model and why in the comments section below.</p></body></html></div><div
+class="clearfix"></div><div
+class="post-tags"><div
+class="post-tags__action">
+<a
+class="post-tags__action-link js-email-to" href="#" rel="nofollow">
+<img
+src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-send.svg" width="21" height="19" alt="Send Email">
+</a></div></div></div><div
+class="comments-container clearfix" ><div
+id="comments" class="comments-area"><div
+id="respond" class="comment-respond"><h2 id="reply-title" class="comment-reply-title"><span
+class="comment-reply-title__text"><span>Leave a Reply</span></span> <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/find-model-number-laptop/#respond" style="display:none;">Cancel reply</a></small></h2><form
+action="https://www.alphr.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p
+class="comment-notes"><span
+id="email-notes">Your email address will not be published.</span> <span
+class="required-field-message" aria-hidden="true">Required fields are marked <span
+class="required" aria-hidden="true">*</span></span></p><p
+class="comment-form-comment"><label
+for="comment">Comment <span
+class="required" aria-hidden="true">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p
+class="comment-form-author"><label
+for="author">Name <span
+class="required" aria-hidden="true">*</span></label> <input
+id="author" name="author" type="text" value="" size="30" maxlength="245" required="required" /></p><p
+class="comment-form-email"><label
+for="email">Email <span
+class="required" aria-hidden="true">*</span></label> <input
+id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required" /></p><p
+class="comment-form-url"><label
+for="url">Website</label> <input
+id="url" name="url" type="text" value="" size="30" maxlength="200" /></p><p
+class="comment-form-cookies-consent"><input
+id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label
+for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p><div
+id="g-recaptcha-1" class="g-recaptcha" data-sitekey="6Lf01s0bAAAAAIiWV9JP2IOGouPcDOfS7mD-42E_" data-theme="light"></div><noscript>Please enable JavaScript to submit this form.<br></noscript></br><p
+class="form-submit"><input
+name="submit" type="submit" id="submit" class="button medium yellow" value="Post Comment" /> <input
+type='hidden' name='comment_post_ID' value='329462' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p></form></div></div></div><p
+class="article-bottom-disclaimer">Disclaimer: Some pages on this site may include an affiliate link. This does not effect our editorial in any way.</p></div><div
+class="columns best-list__right-sidebar new-post__right-sidebar sticky-ads-sidebar js-no-calc"><div
+class="sticky-ads-container"><div
+class="side-bar-1 sticky-ads" style="min-height: 300px"><div
+align="center" id="alphr_article_desktop_right_rail_1" data-freestar-ad="__300x600" class="desktop-lazy-ads" style="min-height: 300px"></div></div></div><div
+class="sidebar__widget js-also-like"><div
+class="sidebar__widget-header">
+<span>You may also like</span></div><div
+class="sidebar__widget-body"><div
+class="posts-list"><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/05/Ethernet-Cable-Keeps-Disconnecting.jpg?resize=302%2C190&amp;ssl=1" class="attachment-new-home-302-190 size-new-home-302-190 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/05/Ethernet-Cable-Keeps-Disconnecting.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/05/Ethernet-Cable-Keeps-Disconnecting.jpg?resize=302%2C190&amp;ssl=1 302w" sizes="(max-width: 302px) 100vw, 302px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/ethernet-cable-keeps-disconnecting/">How To Fix an Ethernet Cable That Keeps Disconnecting</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>May 8, 2023</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=302%2C190&amp;ssl=1" class="attachment-new-home-302-190 size-new-home-302-190 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?w=1118&amp;ssl=1 1118w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=512%2C320&amp;ssl=1 512w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/10/Discord-No-Route.png?resize=302%2C190&amp;ssl=1 302w" sizes="(max-width: 302px) 100vw, 302px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/discord-no-route/">Discord No Route Error &#8211; The Best Fixes for Mobile &#038; PC</a><p
+class="post-info__content">
+<span>Aaron Donald</span>
+<span>May 6, 2023</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/04/excel-dates9.jpg?resize=302%2C190&amp;ssl=1" class="attachment-new-home-302-190 size-new-home-302-190 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/04/excel-dates9.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/04/excel-dates9.jpg?resize=302%2C190&amp;ssl=1 302w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/04/excel-dates9.jpg?zoom=2&amp;resize=302%2C190&amp;ssl=1 604w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/04/excel-dates9.jpg?zoom=3&amp;resize=302%2C190&amp;ssl=1 906w" sizes="(max-width: 302px) 100vw, 302px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/calculate-days-between-two-dates-excel/">How to Calculate Days Between Two Dates in Excel</a><p
+class="post-info__content">
+<span>Matthew</span>
+<span>May 5, 2023</span></p></div></div></div></div></div><div
+class="sticky-ads-container"><div
+class="side-bar-2 sticky-ads" style="min-height: 300px"><div
+align="center" id="alphr_article_desktop_right_rail_2" data-freestar-ad="__300x600" class="desktop-lazy-ads" style="min-height: 300px"></div></div></div><div
+class="sticky-ads-container"><div
+class="side-bar-3 sticky-ads" style="min-height: 300px"><div
+align="center" id="alphr_article_desktop_right_rail_3" data-freestar-ad="__300x600" class="desktop-lazy-ads" style="min-height: 300px"></div></div></div></div><div
+class="modal modal--weekly-newsletter js-email-send"><div
+class="modal__container"><div
+class="modal__box">
+<a
+href="#" class="modal__close-button"><i
+class="icon-times close"></i></a><div
+class="modal__body"><div
+class="weekly-newsletter"><h3 class="weekly-newsletter__title">Send To Someone</h3><form
+class="weekly-newsletter-form" method="post">
+<input
+type="hidden" name="post_id" value="329462" />
+<input
+type="hidden" name="action" value="send_to_email_ajax" /><div
+class="weekly-newsletter-form__line">
+<label
+class="weekly-newsletter-form__label" for="">To email address</label>
+<input
+class="weekly-newsletter-form__control" type="email" name="to_email" placeholder="E-mail" required></div><div
+class="weekly-newsletter-form__line">
+<label
+class="weekly-newsletter-form__label" for="">From name</label>
+<input
+class="weekly-newsletter-form__control" type="text" name="from_name" placeholder="From Name" required></div><div
+class="weekly-newsletter-form__line"><div
+id="g-recaptcha-2" class="g-recaptcha" data-sitekey="6Lf01s0bAAAAAIiWV9JP2IOGouPcDOfS7mD-42E_" data-theme="light"></div><noscript>Please enable JavaScript to submit this form.<br></noscript></div><div
+class="weekly-newsletter-form__line">
+<button
+class="button button--blue js-submit-email-send">Send</button></div></form></div></div></div></div></div><div
+class="modal modal--weekly-newsletter js-missing-device"><div
+class="modal__container"><div
+class="modal__box">
+<a
+href="#" class="modal__close-button"><i
+class="icon-times close"></i></a><div
+class="modal__body"><div
+class="weekly-newsletter"><h3 class="weekly-newsletter__title">Missing Device</h3><div
+role="form" class="wpcf7" id="wpcf7-f277733-o1" lang="en-US" dir="ltr"><div
+class="screen-reader-response"><p
+role="status" aria-live="polite" aria-atomic="true"></p><ul></ul></div><form
+action="/find-model-number-laptop/#wpcf7-f277733-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init"><div
+style="display: none;">
+<input
+type="hidden" name="_wpcf7" value="277733" />
+<input
+type="hidden" name="_wpcf7_version" value="5.6.3" />
+<input
+type="hidden" name="_wpcf7_locale" value="en_US" />
+<input
+type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f277733-o1" />
+<input
+type="hidden" name="_wpcf7_container_post" value="0" />
+<input
+type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input
+type="hidden" name="_wpcf7_recaptcha_response" value="" /></div><p><label><span
+class="wpcf7-form-control-wrap" data-name="devices"><input
+type="text" name="devices" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p><p><div
+id="g-recaptcha-3" class="g-recaptcha" data-sitekey="6Lf01s0bAAAAAIiWV9JP2IOGouPcDOfS7mD-42E_" data-theme="light"></div><noscript>Please enable JavaScript to submit this form.<br></noscript></p>
+<input
+type="hidden" name="post_url" value="https://www.alphr.com/find-model-number-laptop" class="wpcf7-form-control wpcf7-hidden" />
+<input
+type="hidden" name="post_id" value="329462" class="wpcf7-form-control wpcf7-hidden" /><p><input
+type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p><div
+class="wpcf7-response-output" aria-hidden="true"></div></form></div></div></div></div></div></div></div><div
+class="js-article_desktop_end" style="min-height: 100px"><div
+align="center" id="alphr_article_desktop_end" data-freestar-ad="__970x250" class="desktop-lazy-ads"></div></div><div
+class="row js-after-content-posts"><div
+class="large-12 columns"><div
+class="widget"><div
+class="widget__header"><div
+class="widget__title"><span>Todays Highlights</span></div></div><div
+class="widget__content"><div
+class="posts-list"><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Change-the-Location-on-a-FireStick.png?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Change-the-Location-on-a-FireStick.png?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Change-the-Location-on-a-FireStick.png?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Change-the-Location-on-a-FireStick.png?zoom=3&amp;resize=320%2C292&amp;ssl=1 960w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/change-location-firestick/">How to Change the Location on a FireStick</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>April 1, 2023</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/08/How-to-See-Google-Search-History.jpg?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="How to See Google Search History" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/08/How-to-See-Google-Search-History.jpg?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/08/How-to-See-Google-Search-History.jpg?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/08/How-to-See-Google-Search-History.jpg?zoom=3&amp;resize=320%2C292&amp;ssl=1 960w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/view-google-search-history/">How to View Your Google Search History</a><p
+class="post-info__content">
+<span>Steve Larner</span>
+<span>March 7, 2023</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/12/Media-Images-Zoom-ExecutiveOffice-01-scaled.jpg?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/12/Media-Images-Zoom-ExecutiveOffice-01-scaled.jpg?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/12/Media-Images-Zoom-ExecutiveOffice-01-scaled.jpg?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/12/Media-Images-Zoom-ExecutiveOffice-01-scaled.jpg?zoom=3&amp;resize=320%2C292&amp;ssl=1 960w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/user-name-zoom/">How to Change Your User Name in Zoom</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>August 23, 2022</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/07/How-to-Use-Inspect-Element.png?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/07/How-to-Use-Inspect-Element.png?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/07/How-to-Use-Inspect-Element.png?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/07/How-to-Use-Inspect-Element.png?zoom=3&amp;resize=320%2C292&amp;ssl=1 960w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/how-to-use-inspect-element/">How to Use Inspect Element</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>August 16, 2022</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/how-to-download-photos-from-google-photos.jpg?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="how to download photos from google photos" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/how-to-download-photos-from-google-photos.jpg?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/how-to-download-photos-from-google-photos.jpg?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/how-to-download-photos-from-google-photos.jpg?zoom=3&amp;resize=320%2C292&amp;ssl=1 960w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/download-photos-from-google-photos/">How to Download Photos from Google Photos</a><p
+class="post-info__content">
+<span>Cassandra</span>
+<span>December 3, 2022</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/09/Canva-null-1.jpg?resize=320%2C292&amp;ssl=1" class="attachment-new-home-320-292 size-new-home-320-292 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/09/Canva-null-1.jpg?resize=320%2C292&amp;ssl=1 320w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/09/Canva-null-1.jpg?zoom=2&amp;resize=320%2C292&amp;ssl=1 640w" sizes="(max-width: 320px) 100vw, 320px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/how-to-change-your-username-on-fortnite/">How to Change Your Username on Fortnite</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>February 20, 2023</span></p></div></div></div></div></div></div></div></section><footer><div
+class="container"><div
+class="footer"><div
+class="row large-collapse"><div
+class="large-12 columns"><div
+class="footer__box"><div
+class="footer__column footer__column_contacts">
+<a
+class="footer-logo" href="https://www.alphr.com">
+<img
+class="footer-logo__image" alt="TechJunkie"
+width="123" height="35"
+src="https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg">
+</a><p
+class="footer-text"></p><div
+class="footer-social"><ul><li>
+<a
+href="#" title="Facebook">
+<img
+class="footer-social__icon" alt="Facebook" width="20" height="20" src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-facebook.svg">
+</a></li><li>
+<a
+href="#" title="Twitter">
+<img
+class="footer-social__icon" alt="Twitter" width="19" height="19" src="https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-twitter.svg">
+</a></li></ul></div></div><div
+class="footer__column footer__column_nav"><div
+class="footer-nav"><h6 class="footer-title">Categories</h6><ul
+id="menu-main-2" class="footer-nav__list"><li><a
+href="https://www.alphr.com/category/video-games/"><span>Gaming</span></a></li><li><a
+href="https://www.alphr.com/category/pc-mobile/"><span>PC &amp; Mobile</span></a></li><li><a
+href="https://www.alphr.com/category/social-media/"><span>Social Media</span></a></li><li><a
+href="https://www.alphr.com/category/internet/"><span>Internet</span></a></li><li><a
+href="https://www.alphr.com/category/cut-the-cord/"><span>Entertainment</span></a></li><li><a
+href="https://www.alphr.com/category/tech-devices/"><span>Gadgets</span></a></li><li><a
+href="https://www.alphr.com/category/internet/security/vpns/"><span>VPNs</span></a></li></ul></div></div><div
+class="footer__column footer__column_latest"><h6 class="footer-title">Latest</h6><div
+class="posts-list"><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/netflix_remove_recently_watched_shows_-_better-call-saul.jpg?fit=100%2C56&amp;ssl=1" class="attachment-100x100 size-100x100 wp-post-image" alt="netflix_remove_recently_watched_shows_-_better-call-saul" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/netflix_remove_recently_watched_shows_-_better-call-saul.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/netflix_remove_recently_watched_shows_-_better-call-saul.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/netflix_remove_recently_watched_shows_-_better-call-saul.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/netflix_remove_recently_watched_shows_-_better-call-saul.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 100px) 100vw, 100px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/netflix/1003298/how-to-remove-netflix-recently-watched-shows/">How to Remove Netflix Recently Watched Shows</a><p
+class="post-info__content">
+<span>Cassandra</span>
+<span>July 27, 2022</span></p></div></div><div
+class="post">
+<img
+src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?fit=100%2C67&amp;ssl=1" class="attachment-100x100 size-100x100 wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=480%2C320&amp;ssl=1 480w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?resize=100%2C67&amp;ssl=1 100w, https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/06/How-to-Use-a-VPN-with-an-Android-Device-scaled.jpg?w=1380&amp;ssl=1 1380w" sizes="(max-width: 100px) 100vw, 100px" /><div
+class="post-info">
+<a
+href="https://www.alphr.com/use-vpn-android/">How to Use a VPN with an Android Device</a><p
+class="post-info__content">
+<span>Lee Stanton</span>
+<span>April 1, 2023</span></p></div></div></div></div></div></div></div></div><div
+class="footer-copyright"><div
+class="row large-collapse"><div
+class="large-12 columns"><div
+class="footer__box"><p>&copy; Box 20 LLC 2023</p><p><a
+href="https://www.alphr.com/contact-us/">Contact Us</a> | <a
+href="https://www.alphr.com/privacy-policy/">Privacy Policy</a> | <a
+href="https://www.alphr.com/tos/">TOS</a> | All Rights Reserved</p></div></div></div></div></div></footer></main></div><noscript
+id="deferred-styles"><link
+href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</noscript> <script>var loadDeferredStyles = function() {
+                var addStylesNode = document.getElementById("deferred-styles");
+                var replacement = document.createElement("div");
+                replacement.innerHTML = addStylesNode.textContent;
+                document.body.appendChild(replacement);
+                addStylesNode.parentElement.removeChild(addStylesNode);
+            };
+            var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+                webkitRequestAnimationFrame || msRequestAnimationFrame;
+            if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+            else window.addEventListener('load', loadDeferredStyles);</script> <script type='text/javascript' src='https://www.alphr.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script> <script type='text/javascript' src='https://www.alphr.com/wp-content/themes/alphr/js/jquery.fitvids.js?ver=6.0.3' id='fitvids-js'></script> <script type='text/javascript' src='https://www.alphr.com/wp-content/themes/alphr/js/mobile-detect.min.js?ver=6.0.3' id='theme_app_mob_detect-js'></script> <script defer type='text/javascript' src='https://www.alphr.com/wp-content/themes/alphr/js/app.js?ver=1592381781' id='theme_app-js'></script> <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/dom4/2.0.0/dom4.js?ver=6.0.3' id='passive-polyfill-js'></script> <script defer type='text/javascript' src='https://www.alphr.com/wp-content/themes/alphr/js/comment-reply.min.js?ver=1592216291' id='comment-reply-js'></script> <script type='text/javascript' id='ari-fancybox-js-extra'>/*  */
+var ARI_FANCYBOX = {"lightbox":{"backFocus":false,"trapFocus":false,"thumbs":{"hideOnClose":false},"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/www.alphr.com\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/*  */</script> <script type='text/javascript' src='https://www.alphr.com/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.9' id='ari-fancybox-js'></script> <script type='text/javascript' src='https://www.alphr.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3' id='swv-js'></script> <script type='text/javascript' id='contact-form-7-js-extra'>/*  */
+var wpcf7 = {"api":{"root":"https:\/\/www.alphr.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/*  */</script> <script type='text/javascript' src='https://www.alphr.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3' id='contact-form-7-js'></script> <noscript
+id="deferred-main-captcha">
+ <script type="text/javascript">var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6Lf01s0bAAAAAIiWV9JP2IOGouPcDOfS7mD-42E_',
+							'theme':el.getAttribute('data-theme') || 'light'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+
+		// if jquery present re-render jquery/ajax loaded captcha elements
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6Lf01s0bAAAAAIiWV9JP2IOGouPcDOfS7mD-42E_') !== -1)
+					wp_recaptchaLoadCallback();
+			} );</script><script src="https://www.google.com/recaptcha/api.js?onload=wp_recaptchaLoadCallback&#038;render=explicit" async defer></script> 
+</noscript></body></html>
+<!-- Optimized by Speed Booster Pack v4.5.5 -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 257/358 objects using memcached
+Page Caching using disk: enhanced 
+Database Caching 21/39 queries in 0.084 seconds using redis
+
+Served from: www.alphr.com @ 2023-05-09 13:55:47 by W3 Total Cache
+-->

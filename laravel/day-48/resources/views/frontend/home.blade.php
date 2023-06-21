@@ -13,43 +13,22 @@
         <!-- Slider -->
         <div class="block-slider block-slider4">
             <ul class="" id="bxslider-home4">
-                <li>
-                    <img src="{{ asset('assets/frontend') }}/img/h4-slide.png" alt="Slide">
-                    <div class="caption-group">
-                        <h2 class="caption title">
-                            iPhone <span class="primary">6 <strong>Plus</strong></span>
-                        </h2>
-                        <h4 class="caption subtitle">Dual SIM</h4>
-                        <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
-                    </div>
-                </li>
-                <li><img src="{{ asset('assets/frontend') }}/img/h4-slide2.png" alt="Slide">
-                    <div class="caption-group">
-                        <h2 class="caption title">
-                            by one, get one <span class="primary">50% <strong>off</strong></span>
-                        </h2>
-                        <h4 class="caption subtitle">school supplies & backpacks.*</h4>
-                        <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
-                    </div>
-                </li>
-                <li><img src="{{ asset('assets/frontend') }}/img/h4-slide3.png" alt="Slide">
-                    <div class="caption-group">
-                        <h2 class="caption title">
-                            Apple <span class="primary">Store <strong>Ipod</strong></span>
-                        </h2>
-                        <h4 class="caption subtitle">Select Item</h4>
-                        <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
-                    </div>
-                </li>
-                <li><img src="{{ asset('assets/frontend') }}/img/h4-slide4.png" alt="Slide">
-                    <div class="caption-group">
-                        <h2 class="caption title">
-                            Apple <span class="primary">Store <strong>Ipod</strong></span>
-                        </h2>
-                        <h4 class="caption subtitle">& Phone</h4>
-                        <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
-                    </div>
-                </li>
+                @foreach ($sliders as $slider)
+                    <li>
+                        @if (isset($slider->image) && file_exists($slider->image))
+                            <img src="{{ asset($slider->image) }}" style="" alt="">
+                        @else
+                            <img src="{{ asset('assets/no-img.png') }}" style="" alt="">
+                        @endif
+                        <div class="caption-group">
+                            <h2 class="caption title">
+                                <span class="primary"> <strong>{{$slider->title}}</strong></span>
+                            </h2>
+                            <h4 class="caption subtitle">{{$slider->sub_title}}</h4>
+                            <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
+                        </div>
+                    </li>
+                @endforeach
             </ul>
         </div>
         <!-- ./Slider -->
@@ -103,16 +82,15 @@
                                     @else
                                         <img src="{{asset('assets/no-img.png')}}" style="height: 220px;" alt="">
                                     @endif
-                                    {{-- <img src="{{ asset('assets/frontend') }}/img/product-1.jpg" alt=""> --}}
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add
                                             to cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i>
+                                        <a href="{{url('single-product/'.$product->id)}}" class="view-details-link"><i class="fa fa-link"></i>
                                             See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">{{$product->name}}</a></h2>
+                                <h2><a href="{{url('single-product/'.$product->id)}}">{{$product->name}}</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>Tk. {{$product->price}}</ins> <del>$100.00</del>
@@ -133,14 +111,9 @@
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="{{ asset('assets/frontend') }}/img/brand1.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand2.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand3.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand4.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand5.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand6.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand1.png" alt="">
-                            <img src="{{ asset('assets/frontend') }}/img/brand2.png" alt="">
+                            @foreach ($brands as $brand)
+                                <img src="{{ asset($brand->image) }}" style="" alt="">
+                            @endforeach
                         </div>
                     </div>
                 </div>

@@ -21,6 +21,10 @@
                         <a class="nav-link" href="{{route('manage.category')}}">Manage Category</a>
                         <a class="nav-link" href="{{route('add.product')}}">Add Product</a>
                         <a class="nav-link" href="{{route('manage.product')}}">Manage Products</a>
+                        <a class="nav-link" href="{{route('add.slider')}}">Add Slider</a>
+                        <a class="nav-link" href="{{route('manage.slider')}}">Manage Slider</a>
+                        <a class="nav-link" href="{{route('brands.create')}}">Add Brand</a>
+                        <a class="nav-link" href="{{route('brands.index')}}">Manage Brand</a>
                     </nav>
                 </div>
                 <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"

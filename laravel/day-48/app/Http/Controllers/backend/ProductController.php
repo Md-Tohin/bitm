@@ -39,7 +39,6 @@ class ProductController extends Controller
     //  update
     public function updateProduct(Request $request){
         $product = Product::findOrFail($request->id);
-        // dd($product);
         $product->name = $request->name;
         $product->price = $request->price;
         $product->quantity = $request->quantity;
@@ -57,6 +56,14 @@ class ProductController extends Controller
         $product->image = $product_image;
         $product->save();
         return redirect()->route('manage.product')->with('msg', "Product Updated Successfully!");
+    }
+
+    //  delete
+    public function deleteProduct($id){
+        $product = Product::find($id);
+        @unlink($product->image);
+        $product->delete();
+        return redirect()->back()->with('msg', 'Product Deleted Successfully!');
     }
 
 }

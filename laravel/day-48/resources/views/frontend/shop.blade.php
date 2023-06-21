@@ -27,19 +27,19 @@
         <div class="container">
             <div class="row">
 
-                {{-- @foreach ($products as $product)
+            @foreach ($products as $product)
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
                             @if (isset($product->image) && file_exists($product->image))
-                                <img src="{{asset($product->image)}}" style="height: 250px; padding: 15px; border: 1px solid gray;" alt="">
+                                <img src="{{asset($product->image)}}" style="height: 250px; padding: 15px;" alt="">
                             @else
                                 <img src="{{asset('assets/no-img.png')}}" style="height: 250px;" alt="">
                             @endif
                         </div>
-                        <h2><a href="">{{$product->name}}</a></h2>
+                        <h2><a href="{{url('single-product/'.$product->id)}}">{{$product->name}}</a></h2>
                         <div class="product-carousel-price">
-                            <ins>Tk. {{$product->price}}</ins> <del>$999.00</del>
+                            <ins>Tk. {{$product->price}}</ins> <del></del>
                         </div>
 
                         <div class="product-option-shop">
@@ -48,34 +48,7 @@
                         </div>
                     </div>
                 </div>
-            @endforeach --}}
-
-                @foreach ($products as $product)
-                    <div class="col-md-3 col-sm-6">
-                        <div class="single-product">
-                            <div class="product-f-image">
-                                @if (isset($product->image) && file_exists($product->image))
-                                    <img src="{{ asset($product->image) }}" style="height: 220px; padding: 15px;" alt="">
-                                @else
-                                    <img src="{{ asset('assets/no-img.png') }}" style="height: 220px;" alt="">
-                                @endif
-                                {{-- <img src="{{ asset('assets/frontend') }}/img/product-1.jpg" alt=""> --}}
-                                <div class="product-hover">
-                                    <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add
-                                        to cart</a>
-                                    <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i>
-                                        See details</a>
-                                </div>
-                            </div>
-
-                            <h2><a href="single-product.html">{{ $product->name }}</a></h2>
-
-                            <div class="product-carousel-price">
-                                <ins>Tk. {{ $product->price }}</ins> <del>$100.00</del>
-                            </div>
-                        </div>
-                    </div>
-                @endforeach
+            @endforeach
 
             </div>
 

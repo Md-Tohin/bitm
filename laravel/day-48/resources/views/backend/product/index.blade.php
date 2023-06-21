@@ -28,7 +28,7 @@ Manage Product
                                     <th>Category Name</th>
                                     <th>Price</th>
                                     <th>Quantity</th>
-                                    <th>Salary</th>
+                                    <th>Action</th>
                                 </tr>
                             </thead>
                             <tfoot>
@@ -58,7 +58,7 @@ Manage Product
                                     <td>{{$product->quantity}}</td>
                                     <td>
                                         <a href="{{route('edit.product', $product->id)}}" class="btn btn-sm btn-success">Edit</a>
-                                        <a href="" class="btn btn-sm btn-danger">Delete</a>
+                                        <a href="{{route('delete.product', $product->id)}}" class="btn btn-sm btn-danger">Delete</a>
                                     </td>
                                 </tr>
                                 @endforeach
